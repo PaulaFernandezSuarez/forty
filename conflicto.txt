@@ -1,1 +1,3 @@
 Aquí se producirá un conflicto remoto
+Aquí se producirá un conflicto en remoto
+
